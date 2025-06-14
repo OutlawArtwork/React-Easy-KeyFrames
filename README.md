@@ -1,4 +1,6 @@
-# React - React Easy KeyFrames
+# React Easy KeyFrames
+
+This lightweight React library simplifies the creation of animations by leveraging CSS keyframes and applying them directly to page elements via the className attribute. It provides an intuitive API for developers to define custom animations using CSS keyframe syntax within their React components. The library dynamically generates and injects CSS styles into the DOM, allowing seamless integration with React's declarative approach. By attaching animation styles to elements through className, it ensures compatibility with existing React workflows, promotes reusable animation patterns, and delivers high-performance animations with minimal setup. Ideal for developers seeking a lightweight, flexible solution to enhance UI interactivity without relying on external animation frameworks.
 
 > Easily add CSS Keyframes to React applications.
 
